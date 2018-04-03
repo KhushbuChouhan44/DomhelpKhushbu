@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DomhelpPrachi.iml" filepath="$PROJECT_DIR$/DomhelpPrachi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Domhelp.iml" filepath="$PROJECT_DIR$/.idea/Domhelp.iml" />
+      <module fileurl="file://C:\Users\Lenovo\StudioProjects\DomhelpKhushbu\Domhelp\DomhelpPrachi.iml" filepath="C:\Users\Lenovo\StudioProjects\DomhelpKhushbu\Domhelp\DomhelpPrachi.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

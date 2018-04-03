@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DomhelpPrachi</string>
+    <string name="i_want_to_hire" />
+    <string name="i_want_to_work" />
 </resources>
